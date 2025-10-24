@@ -1,7 +1,5 @@
 # Curso Presencial – Phone Developers 📱👨‍💻
 
-## Mirar este video [IMPORTANTE](https://vt.tiktok.com/ZShTnh6MV/) antes de enrolarte
-
 ![Next Courses](https://static.wixstatic.com/media/07ff59_8353ff069707463bab959caedc6c17fb~mv2.png)
 
 [**🎟️ Buy tickets here**](https://www.redboyconsulting.com/event-details/phone-developers)
