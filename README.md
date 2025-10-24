@@ -49,7 +49,11 @@
 
 ## 🧠 ¿Qué vas a aprender?
 
-Un curso completo donde no solo aprenderás a crear una app móvil con Angular desde cero, sino también cómo calcular su valor, cotizar tu trabajo y venderlo profesionalmente. También aprenderás a usar herramientas como ChatGPT para resolver errores técnicos por tu cuenta.
+Un curso completo donde aprenderás a crear tu primera aplicación moderna con Angular, conectarla a la nube con Firebase y Node.js, y publicarla de forma profesional.
+
+Descubrirás cómo diseñar interfaces atractivas, estructurar tu código con las mejores prácticas y automatizar tareas con IA aplicada al desarrollo.
+
+Al finalizar, tendrás una app completamente funcional en línea, lista para mostrar a clientes, reclutadores o lanzar como tu propio producto digital.
 
 ## 🛠️ Tecnologías que aprenderás en este curso
 
