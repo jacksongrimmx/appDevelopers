@@ -1,11 +1,11 @@
 # Curso Presencial – Phone Developers 📱👨‍💻
 
-![Next Courses](https://static.wixstatic.com/media/07ff59_8353ff069707463bab959caedc6c17fb~mv2.png)
+![Next Courses](https://static.wixstatic.com/media/07ff59_c4d7da8d936144c2a2e2eff8142869cc~mv2.png)
 
-[**🎟️ Buy tickets here**](https://www.redboyconsulting.com/event-details/phone-developers)
+[**🎟️ Buy tickets here**](https://www.redboyconsulting.com/event-details/phone-developers-3)
 
-📅 **Días del evento:** 29 al 30 de Noviembre   
-📍 **Ubicación:** Miguel Lerdo de Tejada 137, Col. Guadalupe Inn, Álvaro Obregón, CP 01020, Ciudad de México  
+📅 **Días del evento:** 24 al 25 de Enero   
+📍 **Ubicación:** Ciudad de México, Calle Arquímedes 130, Polanco, Polanco IV Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX, Mexico
 🚨 **Cupo limitado: solo 25 personas**
 
 ## Agenda
@@ -21,14 +21,15 @@
 
 ## 📲 ¿Instalaciones y configuraciones previas al día del evento?
 
-- Descarga [Visual Studio Code](https://code.visualstudio.com/Download)
-- Descarga [NodeJS + NPM](https://nodejs.org/en)
+- Descarga e Instala [Visual Studio Code](https://code.visualstudio.com/Download)
+- Descarga e Instala [NodeJS + NPM](https://nodejs.org/en)
 - Crea una cuenta en [Github](http://github.com)
-- Descarga [Git](https://git-scm.com/downloads)
+- Descarga e Instala [Git](https://git-scm.com/downloads)
 - Crea una cuenta en [Firebase](http://firebase.google.com)
 - Crea una cuenta en alguna página de Mockups [Canva](www.canva.com)
 - Crea una cuenta de [ChatGPT](http://chatgpt.com)
 - Crea una cuenta en [Discord](https://discord.gg/7h3Scw8W)
+- Descarga e Instala [Android Studio](https://developer.android.com/studio)
 
 
 ## Equipo Mínimo Recomendado 
