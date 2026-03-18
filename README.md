@@ -4,7 +4,7 @@
 
 [**🎟️ Buy tickets here**](https://www.redboyconsulting.com/event-details/phone-developers-abril)
 
-📅 **Días del evento:** 24 al 25 de Enero   
+📅 **Días del evento:** 21 al 22 de Abril   
 📍 **Ubicación:** Ciudad de México, Calle Arquímedes 130, Polanco, Polanco IV Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX, Mexico
 🚨 **Cupo limitado: solo 25 personas**
 
